@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kondemsetti Chitanya Kishore</h1>
+<h1 align="center">Hi 👋, I'm Kondemsetti Chaitanya Kishore</h1>
 <h3 align="center">B.Tech Computer Science Student</h3>
 
 ---
