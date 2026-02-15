@@ -19,23 +19,6 @@ Motivated Computer Science undergraduate with practical experience in full-stack
 ## Technical Skills
 <p>Python,JavaScript,SQL,HTML5,CSS3,Node.js,Express.js,REST APIs,MySQL,n8n</p>
 
-## Featured Projects
-
-### College Academic System
-A full-stack academic management system that calculates internals, SGPA, CGPA, and attendance with user authentication.
-
-<p>Tech Stack: Node.js | MySQL | HTML | CSS</p>
-
-### Rock Paper Scissors Game
-Interactive browser-based game demonstrating DOM manipulation and JavaScript logic implementation.
-
-<p>Tech Stack: HTML | CSS | JavaScript</p>
-
-### Dark Mode / Light Mode Toggle
-Theme-switching functionality to enhance user experience and interface accessibility.
-
-<p>Tech Stack: HTML | CSS | JavaScript</p> 
-
 ## Contact
 <p>Email: <a href="mailto:kchaitu427@gmail.com">kchaitu427@gmail.com</a></p>
 <p>LinkedIn: https://www.linkedin.com/in/chaitanya-kondemsetti/</p>
